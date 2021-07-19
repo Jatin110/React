@@ -1,1 +1,2 @@
-# React
+# Calculator
+Basic calculator implementation
